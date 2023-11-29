@@ -1,2 +1,3 @@
-# warp-script-dev
-dev only, dangerous
+# warp-script
+
+CloudFlare WARP 一键安装脚本
